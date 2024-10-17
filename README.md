@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alfarabi Alif</h1>
 <h3 align="center">A passionate Artificial Isntelligence from Indonesia</h3>
 
-- 🌱 I’m currently learning **Generative AIs**
+- 🌱 I’m currently learning **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
