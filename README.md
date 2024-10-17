@@ -19,8 +19,8 @@
 
 <div style="display: flex; gap: 16px;">
   <a href="https://githubtrends.io">
-    <img align="top" src="https://api.githubtrends.io/user/svg/yysrll/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
+    <img align="top" src="https://api.githubtrends.io/user/svg/alfaalputra/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
   </a>
-  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yysrll&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfaalputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </div>
 
